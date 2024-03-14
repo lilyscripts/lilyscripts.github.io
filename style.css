@@ -36,7 +36,7 @@ nav {
 }
 
 .popup-text {
-	font-size: 0.8rem;
+	font-size: 1.25rem;
 }
 
 .fade-out {
@@ -60,9 +60,18 @@ nav {
 	margin: 5px;
 }
 
+.profile-username {
+	font-size: 2rem;
+}
+
+.profile-description {
+	font-size: 1.25rem;
+}
+
 .profile-link {
 	color: white;
 	cursor: pointer;
+	font-size: 1.15rem;
 	text-decoration: none;
 	transition: 0.2s filter;
 }
